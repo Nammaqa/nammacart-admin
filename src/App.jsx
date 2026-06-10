@@ -10,7 +10,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 const App = () => {
 
-  const url = import.meta.env.VITE_API_BASE_URL;
+  const url = import.meta.env.VITE_API_URL;
 
   return (
     <div>
